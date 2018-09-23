@@ -2,8 +2,7 @@
     "extends": "airbnb",
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js"] }],
-        "arrow-body-style": ["error", "always"],
-        "linebreak-style": ["error", "windows"]
+        "arrow-body-style": ["error", "always"]
     },
     "globals": {
         "document": true,
