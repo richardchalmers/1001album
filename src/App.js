@@ -1,9 +1,14 @@
 import React from 'react';
+import { Route, Switch } from 'react-router-dom';
+import Login from './components/Login';
 
 const App = () => {
   return (
     <div>
-      <h1>Album Front-End</h1>
+      {/*use switch as there will be many routes */}
+      <Switch>
+        <Route path="/login" component={Login} />
+      </Switch>
     </div>
   );
 };
