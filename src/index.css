@@ -1,0 +1,27 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  height: 800px;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(#FF4F64,#FE9637);
+} */
+
+html{
+	background-size: cover;
+	margin: 0;
+	padding-bottom: 0;
+	height: 800px;
+	background: linear-gradient(#FF4F64,#FE9637);
+
+}
+
+h1{
+	color: #FF4F64;
+}
+.Form{
+	background-color: white;
+	text-align: center;
+	vertical-align: center;
+	padding-left: 40px;
+
+}
