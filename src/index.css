@@ -22,6 +22,9 @@ h1{
 	background-color: white;
 	text-align: center;
 	vertical-align: center;
-	padding-left: 40px;
+	border: 1px solid black;
+	width: 40%;
+	margin: auto;
+	padding-bottom: 20px;
 
 }
